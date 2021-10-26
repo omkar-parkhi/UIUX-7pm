@@ -1,0 +1,33 @@
+ * What is html?
+    Hypertext markup language, is a markup language used to structure web pages.(skeleton).
+
+    Hypertext => A text that will help you to jump from one webpage to another.
+
+    markup => structure
+
+    language => A way to interact with the browser.
+
+
+Html consist of tags.
+
+A tag is a set of instructions to be provided to the browser.
+A tag will always come inside angle brackets. eg.(<html>)
+Not every tag has closing but some tags have closings.
+A tag will get close as the same it was declared, but there will a closing sign that is "/" at the start of that tag.
+
+Your overall code will be inside of body tag. You are not going to write any code for website out of the body tag.
+
+There are 6 types of heading in html that is from h1 to h6
+
+p stands for paragraph
+
+Doctype is nothing but the document type, that tells the type of the document to the browser
+
+The comment is usually used for ignore the un-necessary content or to identify for what the code has been written.
+
+For every programming or coding language have comments.
+In html the comment is just like (<!--Your commented content-->)
+
+Attribute is a thing that gives extra information about a particular tag.
+
+We have 2 types of attribute => pre defined(provided bt html) user defined (Defined by user or programmer)
